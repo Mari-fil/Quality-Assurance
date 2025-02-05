@@ -1,5 +1,12 @@
 Here I posted my projects and works:
-         
+
+SO-YUMMY - 
+  - Analysis of technical specifications, writing reviews
+  - Research of Swagger documentation for API testing
+  - Creation of checklists for frontend and backend testing
+  - API testing in Postman
+  - Testing and compiling bug reports
+       
 TRELLO - https://docs.google.com/spreadsheets/d/1J2dkz4h6hpNQ-4jsefzad2xFRulWzfLUkzGmLCjNWN4/edit?usp=sharing
   - Working with Postman
   - Checking status codes, request execution time, headers, and response content.
